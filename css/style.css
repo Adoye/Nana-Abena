@@ -872,6 +872,10 @@ a:focus {
     margin-left: 15px;
 }
 
+.videos, .videos iframe {
+    width: 100%;
+    }
+
 .portfolio .portfolio-text {
     position: relative;
     height: 60px;
